@@ -101,7 +101,7 @@ Please open an issue to propose significant changes.
 
 ## License
 
-This project is licensed under the [MIT License](./LICENCE).
+This project is licensed under the [MIT License](./LICENSE).
 
 ## 🤖 AI Collaboration Statement
 
