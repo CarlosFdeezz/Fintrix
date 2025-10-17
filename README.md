@@ -89,7 +89,7 @@ LICENCE     → Project MIT licence
 - [ ] Prepare deployment scripts (Docker / managed services).  
 - [ ] Document technical decisions and lessons learned in every release.
 
-## Licence
+## License
 
 This project is licensed under the [MIT License](./LICENCE).
 
