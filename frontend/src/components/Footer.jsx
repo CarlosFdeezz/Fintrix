@@ -6,7 +6,7 @@ const Footer = () => (
             Fintrix will be a financial management tool designed to help you track and analyze your finances effectively.
         </h5>
         <h4 className='font-black text-gray-400 tracking-tight -mt-1.5'>
-            © 2024 FINTRIX
+            © 2025 FINTRIX
         </h4>
     </div>
 );
