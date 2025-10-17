@@ -2,6 +2,8 @@
 
 Fintrix is an educational project to build a full-stack personal finance management application. It was born as my first "serious" portfolio project and is meant to document the complete learning journey of a modern workflow: from defining the product to deploying a React frontend with Tailwind and an Express backend powered by SQLite.
 
+![AI Collaboration](https://img.shields.io/badge/AI%20Assisted-ChatGPT-blue)
+
 ## Educational purpose
 
 - **Comprehensive learning:** serves as a lab to practice client/server architecture, reusable component design, and data persistence.  
