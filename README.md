@@ -106,8 +106,7 @@ This project is licensed under the [MIT License](./LICENCE).
 ## 🤖 AI Collaboration Statement
 
 All documentation and technical writing were assisted by AI tools under human supervision.  
-The intent was to enhance clarity, structure, and reflection during the learning process,  
-while maintaining full human responsibility for the technical decisions and final content.
+The intent was to enhance clarity, structure, and reflection during the learning process, while maintaining full human responsibility for the technical decisions and final content.
 
 ---
 
