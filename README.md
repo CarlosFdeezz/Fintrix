@@ -103,6 +103,12 @@ Please open an issue to propose significant changes.
 
 This project is licensed under the [MIT License](./LICENCE).
 
+## 🤖 AI Collaboration Statement
+
+All documentation and technical writing were assisted by AI tools under human supervision.  
+The intent was to enhance clarity, structure, and reflection during the learning process,  
+while maintaining full human responsibility for the technical decisions and final content.
+
 ---
 
 Fintrix reflects my commitment to learning by building. By combining a clear educational goal with the support of AI tools, I aim to demonstrate technical judgment, iteration skills, and a candid narrative about the development process.
