@@ -1,22 +1,25 @@
 # Fintrix
 
-Fintrix is an educational project to build a full-stack personal finance management application. It was born as my first "serious" portfolio project and is meant to document the complete learning journey of a modern workflow: from defining the product to deploying a React frontend with Tailwind and an Express backend powered by SQLite.
+Fintrix is an educational project focused on building a full-stack personal finance management application. Conceived as my first fully architected end-to-end portfolio project, it captures the full process of designing and implementing a modern application: from initial product definition to deploying a React frontend and an Express backend powered by SQLite.
 
-![AI Collaboration](https://img.shields.io/badge/AI%20Assisted-ChatGPT-blue)
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![Express](https://img.shields.io/badge/Backend-Express-green)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
+![AI Collaboration](https://img.shields.io/badge/AI%20Assisted-ChatGPT-blue)
 
 ## Educational purpose
 
 - **Comprehensive learning:** serves as a lab to practice client/server architecture, reusable component design, and data persistence.  
 - **Good practices from day one:** the project includes linting configuration, Vitest-based testing, and layered separation to encourage professional habits.  
-- **Data-driven iterations:** the API lets you register expenses and analyze them, making it possible to experiment with real or simulated financial metrics.
+- **Process documentation:** the project tracks decisions, iterations, and refinements to mirror how a real-world development workflow evolves over time.
 
 ## AI in the process
 
 Artificial intelligence was involved throughout the workflow: ideation, drafting initial copy, structuring the codebase, and reviewing changes. The goal is to show how human judgment can be combined with AI tools to speed up technical decisions, author documentation, and obtain continuous feedback. Each iteration is versioned to highlight the role of AI in the development.
+
+Artificial intelligence supported various stages of the workflow: ideation, initial copywriting, early structural decisions, and iterative refinement.
+The goal was to combine AI-assisted exploration with manual technical judgment, using AI to accelerate clarity, improve documentation, and reflect on alternatives &mdash; always under human supervision and with full responsibility for implementation choices.
 
 ## Current features
 
@@ -103,11 +106,6 @@ Please open an issue to propose significant changes.
 
 This project is licensed under the [MIT License](./LICENSE).
 
-## 🤖 AI Collaboration Statement
-
-All documentation and technical writing were assisted by AI tools under human supervision.  
-The intent was to enhance clarity, structure, and reflection during the learning process, while maintaining full human responsibility for the technical decisions and final content.
-
 ---
 
-Fintrix reflects my commitment to learning by building. By combining a clear educational goal with the support of AI tools, I aim to demonstrate technical judgment, iteration skills, and a candid narrative about the development process.
+Fintrix reflects my commitment to learning by building. By combining a clear educational goal with transparent AI-assisted iteration, the project highlights both architectural thinking and continuous skill development.
